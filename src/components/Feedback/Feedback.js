@@ -5,7 +5,7 @@ import { Statiscics } from 'components/Statistics/Statisctics';
 import { Wrapper } from './Feedback.styled';
 
 const { Component } = require('react');
-
+// refactor here
 class Feedback extends Component {
   state = {
     good: 0,
